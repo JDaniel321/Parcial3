@@ -1,0 +1,33 @@
+.form-signin{
+    width: 44%;
+
+    
+}
+
+.form-group{
+    width: 44%;
+    margin-left: 10%;
+
+}
+
+/*.glyphicon-shopping-cart{
+    color: #ff9802;
+
+}*/
+
+.glyphicon-user.uslogin {
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    margin: 0 auto;
+    color: #ff9802;
+}
+
+
+.btn-primary {
+    background-color:#ff9802;
+}
+
+.btn-primary:hover {
+    background-color: #ff9802;
+}
